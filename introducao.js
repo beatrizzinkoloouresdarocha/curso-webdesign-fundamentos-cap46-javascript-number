@@ -27,3 +27,6 @@ console.log(5 .toString(2))
 console.log(6 .toString(2))
 console.log(7 .toString(2))
 console.log(8 .toString(2))
+
+// 10 -a , 11 - b , 12 ....15 - f
+console.log((15).toString(16))
