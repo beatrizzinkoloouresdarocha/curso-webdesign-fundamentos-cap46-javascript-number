@@ -30,3 +30,7 @@ console.log(8 .toString(2))
 
 // 10 -a , 11 - b , 12 ....15 - f
 console.log((15).toString(16))
+console.log((16).toString(16))
+
+numero = 123456.789
+console.log(numero.toLocaleString())
