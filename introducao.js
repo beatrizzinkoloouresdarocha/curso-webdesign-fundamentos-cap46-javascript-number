@@ -36,3 +36,4 @@ numero = 123456.789
 console.log(numero.toLocaleString())
 console.log(numero.toLocaleString("pt-BR"))
 console.log(numero.toLocaleString("pt-BR",{style:"currency",currency:"BRL"} ))
+console.log(numero.toLocaleString("pt-BR",{style:"currency",currency:"EUR"} ))
