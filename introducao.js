@@ -34,3 +34,5 @@ console.log((16).toString(16))
 
 numero = 123456.789
 console.log(numero.toLocaleString())
+console.log(numero.toLocaleString("pt-BR"))
+console.log(numero.toLocaleString("pt-BR"))
