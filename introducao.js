@@ -11,3 +11,7 @@ console.log((123).toPrecision(6))
 numero = 12.34567
 console.log(numero.toExponential())
 console.log(numero.toExponential(4))
+
+numero = 15
+console.log(numero.toString())
+console.log(typeof numero.toString())
