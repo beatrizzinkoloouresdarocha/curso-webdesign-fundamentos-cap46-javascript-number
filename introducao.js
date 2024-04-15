@@ -15,3 +15,10 @@ console.log(numero.toExponential(4))
 numero = 15
 console.log(numero.toString())
 console.log(typeof numero.toString())
+
+//0 - 0, 1 - 1, 2 -01, 3 -11
+
+console.log(0 .toString(2))
+console.log(1 .toString(2))
+console.log(2 .toString(2))
+console.log(3 .toString(2))
